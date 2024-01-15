@@ -1,0 +1,7 @@
+C:\Users\mceli\OneDrive - ROCvA, ROCvF en VOvA\Bureaublad\snake game\Classic_Snakes_Game_Tutorial___MOO_ICT\obj\Debug\Classic Snakes Game Tutorial - MOO ICT.csproj.AssemblyReference.cache
+C:\Users\mceli\OneDrive - ROCvA, ROCvF en VOvA\Bureaublad\snake game\Classic_Snakes_Game_Tutorial___MOO_ICT\obj\Debug\Classic_Snakes_Game_Tutorial___MOO_ICT.Form1.resources
+C:\Users\mceli\OneDrive - ROCvA, ROCvF en VOvA\Bureaublad\snake game\Classic_Snakes_Game_Tutorial___MOO_ICT\obj\Debug\Classic_Snakes_Game_Tutorial___MOO_ICT.Properties.Resources.resources
+C:\Users\mceli\OneDrive - ROCvA, ROCvF en VOvA\Bureaublad\snake game\Classic_Snakes_Game_Tutorial___MOO_ICT\obj\Debug\Classic Snakes Game Tutorial - MOO ICT.csproj.GenerateResource.cache
+C:\Users\mceli\OneDrive - ROCvA, ROCvF en VOvA\Bureaublad\snake game\Classic_Snakes_Game_Tutorial___MOO_ICT\obj\Debug\Classic Snakes Game Tutorial - MOO ICT.csproj.CoreCompileInputs.cache
+C:\Users\mceli\OneDrive - ROCvA, ROCvF en VOvA\Bureaublad\snake game\Classic_Snakes_Game_Tutorial___MOO_ICT\obj\Debug\Classic Snakes Game Tutorial - MOO ICT.exe
+C:\Users\mceli\OneDrive - ROCvA, ROCvF en VOvA\Bureaublad\snake game\Classic_Snakes_Game_Tutorial___MOO_ICT\obj\Debug\Classic Snakes Game Tutorial - MOO ICT.pdb
